@@ -16,6 +16,6 @@ List of Implementations <br>
         6) Level ordered printing of tree
         7) Depth First Inordered printing of tree
         8) Check if tree is Binary Search Tree or not
-        9) Find Successor of an element in binary search tree
+        9) Find Successor of an element in binary search tree.
         
 To run program you need to install python3, Python 3.5.2 is the version i have used while writing the following code.
