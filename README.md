@@ -4,7 +4,7 @@ Examples of data structures and algorithms in Python 3.
 
 List of Implementations <br>
     1) Trees
-        binary_tree.py :
+        binary_tree.py:
     
         This program is for creating of binary search tree and implementation of its basic and auxiliary operations
         Basic Operations:
