@@ -6,7 +6,7 @@ List of Implementations <br>
 <br>
     1) Trees
         binary_tree.py:
-    
+        <hr>
         This program is for creating of binary search tree and implementation of its basic and auxiliary operations
         Basic Operations:
         1) Insert an element into a tree
