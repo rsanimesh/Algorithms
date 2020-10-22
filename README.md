@@ -1,8 +1,9 @@
 # Algorithms
 Examples of data structures and algorithms in Python 3.
 
-<hr>
+
 List of Implementations <br>
+<hr>
 <br>
     1) Trees
         binary_tree.py:
